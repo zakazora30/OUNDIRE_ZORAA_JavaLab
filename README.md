@@ -64,7 +64,7 @@ java OundireZoraaPackage.UDPClient localhost 8080
 
 ### TCP Communication
 
-To start the UDP communication 'Chat Application):
+To start the TCP communication (Chat Application):
 
 #### TCPServer
 
