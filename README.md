@@ -12,8 +12,6 @@ This project is a simple demonstration of two types of communication between cli
   - [4. TCPClient](#4-tcpclient)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
