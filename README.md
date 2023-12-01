@@ -42,7 +42,7 @@ The `TCPClient` class is a client with a graphical user interface (GUI) for inte
 To run the chat application, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/zakazora30/OUNDIRE_ZORAA_JavaLab.git`
-2. Download the .rar file OundireZoraaLab.rar and extract it
+2. Download the .rar file OundireZoraaPackage.rar and extract it
 3. Navigate to the project directory: `cd your-repo`
 4. Compile the Java files: `javac OundireZoraaPackage/*.java`
 5. Run the desired class using `java` command (e.g., `java OundireZoraaPackage.UDPServer 8080). Note that you should use the same port for the Server and the Client.
