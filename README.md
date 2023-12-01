@@ -48,25 +48,31 @@ To run the chat application, follow these steps:
 
 ## Usage
 
-### UDPServer
+### UDP Communication
 
-To start the UDP server:
+To start the UDP communication:
 
-``bash
+#### UDPServer
+
+``bash:
 java OundireZoraaPackage.UDPServer 8080
 
-### UDPClient
+#### UDPClient
 
-``bash
+``bash:
 java OundireZoraaPackage.UDPClient localhost 8080
 
-### TCPServer
+### TCP Communication
 
-``bash
+To start the UDP communication 'Chat Application):
+
+#### TCPServer
+
+``bash:
 java OundireZoraaPackage.TCPMultiServer 8080
 
-### TCPClient
+#### TCPClient
 
-``bash
+``bash:
 java OundireZoraaPackage.TCPClient localhost 8080
 
